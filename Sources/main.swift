@@ -3,7 +3,6 @@
 import Foundation
 import TNEFSwift
 
-// Simple command line interface for TNEF parsing
 let args = CommandLine.arguments
 
 if args.count < 2 {

@@ -38,7 +38,7 @@ Add TNEF Swift to your project dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/tnef-swift.git", from: "1.0.0")
+    .package(url: "https://github.com/gustavoduran96/tnef-swift.git", from: "1.0.0")
 ]
 ```
 
